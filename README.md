@@ -1,2 +1,21 @@
-# Online-Food-Delivery-System-MongoDB-Project-
-📖 Project Overview This project is a **MongoDB-based Online Food Delivery System** inspired by platforms like Swiggy and Zomato.  It simulates a real-world application where customers can: - Register and login - Browse restaurants - View menu items - Place orders - Make payments - Track delivery status - Give reviews and ratings  ---
+# College Canteen Management System (NoSQL)
+
+## Technology Used
+- MongoDB
+
+## Features
+- Student Management
+- Menu Management
+- Order Processing
+- Payment Tracking
+- Inventory Management
+- Supplier Management
+
+## Database Design
+Used embedded documents for:
+- Orders
+- Purchases
+
+## How to Run
+1. Open MongoDB Compass or Shell
+2. Run all .js files
